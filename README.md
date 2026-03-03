@@ -3,9 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7B9&height=200&section=header&text=Johana%20Paola&fontColor=ffffff&fontSize=42" />
 </p>
 
-<p align="center">
-  <img src="https://tenor.com/es-419/view/lein-anime-gif-9772462185508589058" width="240"/>
-</p>
+<div class="tenor-gif-embed" data-postid="9044786622079490577" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kaname-madoka-madoka-magica-anime-magical-girl-puella-magi-gif-9044786622079490577">Kaname Madoka Madoka Magica GIF</a>from <a href="https://tenor.com/search/kaname+madoka-gifs">Kaname Madoka GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="center">
 Game Developer · VR Explorer · 2D & 3D World Builder · 3D Modeler
