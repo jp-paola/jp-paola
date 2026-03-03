@@ -5,7 +5,7 @@
 
 <!-- GIF centrado correctamente -->
 <p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/kaname-madoka-madoka-magica.gif" width="260"/>
+  <img src="https://tenor.com/es-419/view/kaname-madoka-madoka-magica-anime-magical-girl-puella-magi-gif-9044786622079490577" width="260"/>
 </p>
 
 <p align="center">
