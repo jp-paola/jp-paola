@@ -1,11 +1,19 @@
-<!-- Banner superior -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7B9&height=200&section=header&text=Johana%20Paola&fontColor=ffffff&fontSize=42" />
 </p>
 
-<!-- GIF central: chica mágica programadora (estilo elegante) -->
+<!-- Marco visual suave -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRjYzZ3b2Z4Y2F4cDJ6b2E5aGJ1Nm1nZTR2M2d1ZWY2ZzE5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="280"/>
+  ─────────────────────────────
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="240"/>
+</p>
+
+<p align="center">
+  ─────────────────────────────
 </p>
 
 <p align="center">
@@ -14,18 +22,20 @@ Game Developer · VR Explorer · 2D & 3D World Builder · 3D Modeler
 
 ---
 
-## About
+## About Me
 
-I design interactive worlds where logic, aesthetics, and immersion coexist.
+I am a passionate and creative developer who builds interactive worlds with intention.
 
-My work focuses on:
-- Game systems and mechanics  
-- 2D and 3D environments  
-- Virtual Reality experiences  
-- Combat logic and state machines  
-- 3D modeling and asset creation  
+I care about atmosphere, systems, and the emotional weight of digital spaces.  
+My work blends structure and imagination — from combat mechanics and gameplay logic to immersive VR environments and 3D modeling.
 
-I enjoy building spaces that feel alive, intentional, and expressive.
+I bring:
+- Strong analytical thinking  
+- Attention to detail  
+- Curiosity for emerging technologies  
+- Commitment to continuous growth  
+
+I aim to create experiences that feel alive, thoughtful, and meaningful.
 
 ---
 
@@ -53,13 +63,7 @@ I enjoy building spaces that feel alive, intentional, and expressive.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jp-paola&show_icons=true&title_color=F4A7B9&icon_color=F4A7B9&text_color=555555&bg_color=ffffff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jp-paola&ring=F4A7B9&fire=F4A7B9&currStreakLabel=F4A7B9&hide_border=true" />
-</p>
-
-<p align="center">
-  <i>Designing digital worlds with intention and care.</i>
+  <i>
+  I build worlds the way light builds dawn — slowly, intentionally, and full of quiet power.
+  </i>
 </p>
