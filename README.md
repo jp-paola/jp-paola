@@ -3,8 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7B9&height=200&section=header&text=Johana%20Paola&fontColor=ffffff&fontSize=42" />
 </p>
 
-<p align = "center">
-  https://tenor.com/es-419/view/kaname-madoka-madoka-magica-anime-magical-girl-puella-magi-gif-9044786622079490577
+<!-- GIF centrado correctamente -->
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/kaname-madoka-madoka-magica.gif" width="260"/>
 </p>
 
 <p align="center">
