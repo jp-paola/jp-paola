@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="240"/>
+  <img src="https://tenor.com/es-419/view/lein-anime-gif-9772462185508589058" width="240"/>
 </p>
 
 <p align="center">
